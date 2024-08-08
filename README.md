@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Ciacciarella</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on [WebPress](https://github.com/Alexfinitore10/WebTechPressPortal)
+- 🔭 I’m currently working on [PressPortal](https://github.com/Alexfinitore10/PressPortal)
 
 - 🌱 I’m currently learning **FullStack Development**
 
