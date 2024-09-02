@@ -13,6 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/alex-ciacciarella-12774a1b6/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 8px;">
+    Alex Ciacciarella
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
