@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on [StreetCats](https://github.com/Alexfinitore10/StreetCats) and [PosixShellCpp](https://github.com/Alexfinitore10/PosixShellCpp)
+- 🔭 I’m currently working on [CCNA LABS](https://github.com/Alexfinitore10/ccna-labs) for my certification
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **CCNA and networks**
 
 - 💬 Ask me about **Videogames**
 
